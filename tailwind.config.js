@@ -3,11 +3,11 @@
  */
  module.exports = {
   content: [    
-    "./pages/**/*.{ts,tsx}",
-    "./public/**/*.html",
-    "./components/**/*.{ts,tsx}",
-    "./components/**/**/*.{ts,tsx}",
-    "./layout/**/*.{ts,tsx}",
+    "./src/pages/**/*.{ts,tsx}",
+    "./src/public/**/*.html",
+    "./src/components/**/*.{ts,tsx}",
+    "./src/components/**/**/*.{ts,tsx}",
+    "./src/layout/**/*.{ts,tsx}",
   ],
   plugins: [    
   ],
