@@ -23,3 +23,7 @@ export enum DiscountType {
   ANNUAL = "annual",
   SEMESTER = "semester",
 }
+
+export interface PricingPlansResponse {
+  items: PricingPlan[];
+}

@@ -18,6 +18,7 @@
       'chocolate': '#bf5d21',
       'gold': '#cfac38',          
       'perfume': '#ccacdb',
+      'red': '#ff0000',   
       'white': '#ffffff',
       'black': '#000',
     },
